@@ -1,0 +1,6 @@
+.sfdx
+.project
+.salesforce
+.settings
+node_modules
+.idea
